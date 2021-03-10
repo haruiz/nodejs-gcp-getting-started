@@ -50,4 +50,5 @@ gcloud beta billing projects describe <PROJECT_ID>
 ```terminal
 gcloud app create
 gcloud app deploy
+gcloud app browse
 ```

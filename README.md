@@ -52,3 +52,7 @@ gcloud app create
 gcloud app deploy
 gcloud app browse
 ```
+
+### 5. Enable Vision API in the project
+
+https://console.cloud.google.com/apis/library?
